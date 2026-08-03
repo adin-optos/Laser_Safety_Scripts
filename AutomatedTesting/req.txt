@@ -1,0 +1,13 @@
+pywinauto
+pyautogui
+mss
+Pillow
+numpy
+pandas
+matplotlib
+openpyxl
+requests
+pyyaml
+pytest
+tqdm
+pyserial
