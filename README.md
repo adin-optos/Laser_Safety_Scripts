@@ -39,3 +39,13 @@ Run:
 python -m pip install -r req.txt
 
 now the scripts are ready
+
+### Running Scripts
+
+cd Desktop
+cd Laser_Safety_Scripts-main
+cd Laser_Safety_Scripts-main
+cd AutomatedTesting
+cd GM_Algorithm_Test
+
+python -i Run_GM.py
