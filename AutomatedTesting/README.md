@@ -31,7 +31,24 @@ Download and extract the repository ZIP file to your desired location.
 
 ### Installation
 
+
 Install Python if it is not already installed.
+
+1. Verify whether Python is installed:
+
+ cmd ```python --version ```
+   
+If not found 
+ cmd ```where /r C:\ python.exe ```
+   
+2. Ensure the Python installation directory is added to the System PATH environment variable. For example:
+
+C:\Users\ServiceAdmin\AppData\Local\Programs\Python\Python312
+C:\Users\ServiceAdmin\AppData\Local\Programs\Python\Python312\Scripts
+
+cmd ```python --version```
+```pip --version```
+
 
 Open a Command Prompt, navigate to the project directory, and install the required packages:
 
