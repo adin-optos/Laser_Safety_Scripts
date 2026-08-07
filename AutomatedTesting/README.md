@@ -52,17 +52,18 @@ cmd ```python --version```
 
 Open a Command Prompt, navigate to the project directory, and install the required packages:
 
-Run:
+Run in the req directory:
 ```python -m pip install -r req.txt```
 
 now the scripts are ready
 
 ### Running Scripts
-
+cmd
+```
 cd Desktop
 cd Laser_Safety_Scripts-main
 cd Laser_Safety_Scripts-main
 cd AutomatedTesting
 cd GM_Algorithm_Test
 
-python -i Run_GM.py
+python -i Run_GM.py```
