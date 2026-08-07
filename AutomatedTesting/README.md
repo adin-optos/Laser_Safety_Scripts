@@ -53,7 +53,7 @@ cmd ```python --version```
 Open a Command Prompt, navigate to the project directory, and install the required packages:
 
 Run:
-python -m pip install -r req.txt
+```python -m pip install -r req.txt```
 
 now the scripts are ready
 
