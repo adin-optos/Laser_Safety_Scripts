@@ -1,0 +1,23 @@
+{
+    "switch_list" : [
+        {"ip": "172.20.16.116", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA2227004604", "macID": "28 29 86 6B E0 5B"},
+        {"ip": "172.20.23.234", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "5A1721E03849", "macID": "00 C0 B7 E0 83 60"},
+        {"ip": "172.20.23.252", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA1804031556", "macID": "28 29 86 03 14 13"},
+        {"ip": "172.20.16.38", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "5A2030E02424", "macID": "28 29 86 39 FA 39"},
+        {"ip": "172.20.23.233", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA1703124045", "macID": "00 C0 B7 FD 3D 6C"},
+        {"ip": "172.20.16.68", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA2035016437", "macID": "28 29 86 39 FA 3C"},
+        {"ip": "172.20.16.58", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA1803028264", "macID": "28 29 86 03 13 CE"},
+        {"ip": "172.20.23.250", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA1803028270", "macID": "28 29 86 03 13 D4"},
+        {"ip": "172.20.26.59", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "0A2201G10830", "macID": "28 29 86 61 9E 2C"},
+        {"ip": "172.20.16.125", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "0A2313G05300", "macID": "28 29 86 7A 00 48"},
+        {"ip": "172.20.28.128", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "0A2201G12343", "macID": "28 29 86 61 9C 7E"},
+        {"ip": "172.20.26.60", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "0A2411G24229", "macID": "28 29 86 8F EE A9"},
+        {"ip": "172.20.26.70", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "ZA2240004661", "macID": "28 29 86 6E 37 64"},
+		{"ip": "172.20.16.172", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "5A2030E02419", "macID": "28 29 86 39 9F A9"},
+		{"ip": "172.20.16.228", "user": "OptosService", "pass": "R-?A0#1Rx9n)+mD9Y9CBcB4F", "serial": "0A2412G02822", "macID": "28 29 86 8F EE A9"}
+        
+    ],
+    "exclude_port_keywords" : [
+        "free", "empty", "none", "outlet", "----"
+    ]
+}
