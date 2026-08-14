@@ -3,6 +3,8 @@ import time
 from Load_FPGA_Debug_Tool import main as run_fpga_debug_tool, data_dumping, Galvo_LUT_Change, LUT_dumping, Galvo_LUT_Swap
 from Enter_Patient_Scan import main as run_scan, scan_patterns, enter_patient_name, debug_setup, finish_patient, click_button
 
+# ensure patient name "test test" exists
+
 def main():
     # ✅ Step 1: Launch & configure FPGA tool
     run_fpga_debug_tool()
